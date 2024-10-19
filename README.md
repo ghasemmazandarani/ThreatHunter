@@ -1,5 +1,5 @@
 
-![Screenshot (18)](https://github.com/user-attachments/assets/39d1a99a-6d49-46f8-a72b-4b48a3516b62)
+![photo_2024-10-09_10-59-14](https://github.com/user-attachments/assets/3e2aa7cd-25ab-4915-8d20-7c82d0bbffc8)
 
 
 پروژه شکاربان هدف : شکار تهدیدات امنیتی موجود در سرور هایی که از آپاچی استفاده میکنند
